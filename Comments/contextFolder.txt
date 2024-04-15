@@ -1,0 +1,5 @@
+this folder will contain pages that will build our
+context api
+
+we have created a index.js file which will contain
+a context component and a context porvider component
