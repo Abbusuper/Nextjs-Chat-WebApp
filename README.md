@@ -34,4 +34,4 @@ OR
 
 ### `npm run dev`
 
-Install everything with npm i then run `npm run dev` to get up and running.
+Install everything with `npm` i then run `npm run dev` to get up and running.
